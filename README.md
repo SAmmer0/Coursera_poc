@@ -1,0 +1,12 @@
+本仓库主要用于存储我在近期的Coursera上的Principles of Computing上的Mini-project上的代码
+
+其中：
+
+- chapter0_2048.py为Week0的2048游戏的克隆
+- chapter1由于当时时间不充足，所以没做
+- chapter2_Monte_carlo_Tic_Tac_Toe.py为使用蒙特卡洛模拟方法设计出的游戏玩家
+- chapter3_Yahtzee.py为使用蒙特卡洛方法设计出的Yahtzee简化版游戏的游戏玩家
+- chapter4_Zombie.py是演示僵尸与人追跑游戏的游戏规则设置
+- chapter5_Wrod_Wrangler.py是一个猜词游戏
+- chapter6_Mini_max_Tic_Tac_Toe.py是通过使用搜索树和mini-max方法来设计出的游戏玩家
+- chapter7_Fifteen_puzzle_solver.py是针对更改后的15 Puzzle游戏而设计出的电脑游戏策略
